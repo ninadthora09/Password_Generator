@@ -9,3 +9,13 @@ Option to include uppercase, lowercase, numbers, and symbols.
 Copy password to clipboard with a single click.
 
 Lightweight, fast, and responsive UI.
+
+
+#Feature	Status
+
+Random password generation	✅
+Include uppercase letters	✅
+Include lowercase letters	✅
+Include numbers	✅
+Include symbols	✅
+Copy to clipboard	✅

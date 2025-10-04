@@ -2,20 +2,22 @@
 
 # Features
 
-Generate strong and random passwords.
+Generate strong and random passwords ✅
 
-Option to include uppercase, lowercase, numbers, and symbols.
+Option to include uppercase, lowercase, numbers, and symbols ✅
 
-Copy password to clipboard with a single click.
+Copy password to clipboard with a single click ✅
 
-Lightweight, fast, and responsive UI.
-
-
-#Feature	Status
+Lightweight, fast, and responsive UI ✅
 
 Random password generation	✅
+
 Include uppercase letters	✅
+
 Include lowercase letters	✅
+
 Include numbers	✅
+
 Include symbols	✅
+
 Copy to clipboard	✅
